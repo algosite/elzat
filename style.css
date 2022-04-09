@@ -1,0 +1,26 @@
+ header {
+ 	text-align: center;
+	color:#000033;
+	font-size:70px; 
+}
+
+body {
+	background:#CC3399;
+}
+
+p {
+	color: #000033;
+	text-align: center;
+	font-size:70px
+}
+
+h1 {
+		text-align: center;
+		color: 	#003300;
+		font-size:70px
+}
+
+img{
+	width: 600px
+	margin-left:30%
+}
