@@ -1,26 +1,35 @@
  header {
  	text-align: center;
-	color:#000033;
+	color:#191970;
 	font-size:70px; 
 }
-
-body {
-	background:#CC3399;
-}
-
 p {
-	color: #000033;
+	color: #8B0000;
 	text-align: center;
 	font-size:70px
 }
 
 h1 {
 		text-align: center;
-		color: 	#003300;
+		color: 	#8B0000;
 		font-size:70px
 }
 
 img{
 	width: 600px
 	margin-left:30%
+}
+nav a {
+margin: 20px;
+font-size:20px ;
+text-decoration: none;
+color: white;
+border: 3px solid navy;
+border-radius: 10px;
+background-color: navy;
+
+}
+.popular{
+background-color: #FF00FF;
+color: #008000;
 }
